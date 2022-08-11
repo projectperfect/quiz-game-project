@@ -9,3 +9,4 @@ for question in question_data:
     question_bank.append(new_question)
 
 
+QuizBrain(quesiton_bank)
